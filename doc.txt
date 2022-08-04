@@ -1,0 +1,20 @@
+Criando repositório git
+
+ git init: iniciar
+
+ git add . ou -A : adiciona todos os itens
+
+ git commit -m 'mensagem': adiciona mensagem ao commit
+
+ ir no github e criar novo repositorio
+
+ copiar comandos e inserir no terminal:
+
+git remote add origin https://github.com/mowload/nomeprojeto.git
+
+$ git push -u origin main
+
+
+---------------------------------------
+header-bg vai receber o background
+div header vai segurar o conteudo(centralizado): container
